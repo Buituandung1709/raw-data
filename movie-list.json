@@ -4,5 +4,11 @@
     "name": "Look Who’s Back",
     "episode": "Full Movie",
     "link": "../player.html?movie=look-whos-back"
+  },
+  {
+    "cover_image": "https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/3/5/350x495-kny.jpg",
+    "name": "Thanh Gươm Diệt Quỷ Vô Hạn Thành Phần 1",
+    "episode": "Movie 1",
+    "link": "../player.html?movie=kny-infcastle-1"
   }
 ]
